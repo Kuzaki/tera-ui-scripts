@@ -1,0 +1,1 @@
+tipText.autoSize = true;
